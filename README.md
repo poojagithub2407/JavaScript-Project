@@ -39,3 +39,25 @@ The Quiz Application is a simple web-based quiz platform that focuses on HTML co
  - View the final score at the end of the quiz.
 
 ---
+# Task Manager
+
+## Description
+
+A simple task manager application built with HTML, CSS, and JavaScript. It allows users to add tasks, mark them as completed, and remove them. The application utilizes local storage for data persistence.
+
+## Features
+
+1. **Add Task:**
+   - Type your task in the input box.
+   - Click the "Add" button.
+   - A new task will be added to the list.
+
+2. **Mark as Completed:**
+   - Click on a task to mark it as completed.
+   - Completed tasks are visually differentiated with a strikethrough effect.
+
+3. **Remove Task:**
+   - Click on the 'x' button next to a task to remove it from the list.
+
+4. **Validation:**
+   - An alert will prompt you if you try to add an empty task.
