@@ -26,6 +26,16 @@ Generate and apply random colors to a webpage background. The color code is disp
 - The color code is displayed on the page.
 - Click "Copy to Clipboard" to copy the color code.
 
-Feel free to explore, modify, and learn from these projects. Happy coding!
+
+---
+## 3. Quiz Application
+
+**Description:**
+The Quiz Application is a simple web-based quiz platform that focuses on HTML concepts. Users can answer multiple-choice questions and receive immediate feedback. The final score is displayed at the end of the quiz.
+
+**Usage:**
+ - Select answers from the multiple-choice options.
+ - Click "Submit" to move to the next question and get feedback.
+ - View the final score at the end of the quiz.
 
 ---
